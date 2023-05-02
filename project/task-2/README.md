@@ -15,6 +15,7 @@
 ### Step 0: Create a private GitHub repository
 
 Create a private GitHub repository that is shared among your groupmates and your instructor (oconnor97). 
+Clone your Repo to your Generation Folder on your own Computer
 
 ### Step 1: Create the page structure
 
@@ -23,7 +24,7 @@ In this step, we'll create a basic HTML structure and include [Bootstrap](https:
 1. Create a new file called `index.html` inside your project folder.
 2. Create a new file called `styles.css` and put this file inside a folder called `css`inside your project folder.
 3. Include your `styles.css` file inside the `index.html` page.
-3. Create a new Github repo and add, commit and push your files.
+3. Add, commit and push your files.
 
 ### Step 2: Implementing your Task Planner Wireframes
 
