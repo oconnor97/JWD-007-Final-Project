@@ -14,7 +14,7 @@
 
 ### Step 0: Create a private GitHub repository
 
-Create a private GitHub repository that is shared among your groupmates and your instructor (Phillip-Generation). 
+Create a private GitHub repository that is shared among your groupmates and your instructor (oconnor97). 
 
 ### Step 1: Create the page structure
 
